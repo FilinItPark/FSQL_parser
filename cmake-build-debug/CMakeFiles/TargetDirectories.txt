@@ -1,0 +1,3 @@
+/Users/1ommy/university/kp_6/cmake-build-debug/CMakeFiles/kp_6.dir
+/Users/1ommy/university/kp_6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/1ommy/university/kp_6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
