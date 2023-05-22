@@ -3,9 +3,9 @@
 
 ОГРАНИЧЕНИЯ НА ВХОДНУЮ СТРОКУ! ИНАЧЕ НИЧЕГО РАБОТАТЬ НЕ БУДЕТ! 
 
-create tablename (column1 type, column2 type, ..., columnN type) - на type нам посрать
+create table tableName (column1 type,...,columnn type)
 
-select * from tablename where columnName=sth and columnName2 = sth2;
+select * from tablename where columnName=sth and columnName2=sth2;
 select * from tablename where columnName=sth;
 select * from tablename;
 
